@@ -7,14 +7,14 @@ some notable things to say:
 * appearance based on system settings
 * yea thats pretty much it
 
-## screenshots light mode
+## light mode
 
 <img src="https://github.com/greiner-petter/Blackjack/assets/79384932/65a38423-8db3-4ee9-bdba-31c596792b2d" alt="gameplay won light" width="200"/>
 <img src="https://github.com/greiner-petter/Blackjack/assets/79384932/47694496-9e19-4895-8dd4-81d980899c94" alt="you won light" width="200"/>
 <img src="https://github.com/greiner-petter/Blackjack/assets/79384932/d98805bb-1943-4a8c-9ab6-92d7487dc4fb" alt="gameplay lost light" width="200"/>
 <img src="https://github.com/greiner-petter/Blackjack/assets/79384932/fab27af0-d5d3-48ae-9aac-fcd2c6675aef" alt="you lost light" width="200"/>
 
-## screenshots dark mode
+## dark mode
 
 <img src="https://github.com/greiner-petter/Blackjack/assets/79384932/3513c772-3650-4ae6-a952-57e3e49370c6" alt="gameplay win dark" width="200"/>
 <img src="https://github.com/greiner-petter/Blackjack/assets/79384932/758251df-2d4a-4c52-b77d-8b9c4c55a0fc" alt="you won dark" width="200"/>
